@@ -1,13 +1,14 @@
 package com.java;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
-
+//import org.junit.After;
+//import org.junit.Before;
+//import org.junit.Test;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 import static org.junit.Assert.*;
 
 public class testTest {
-
+/*
     @Before
     public void setUp() throws Exception {
     }
@@ -19,7 +20,7 @@ public class testTest {
     @Test
     public void main() {
     }
-
+*/
     @Test
     public void testMD5() {
         test tes=new test();
